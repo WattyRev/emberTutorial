@@ -1,7 +1,7 @@
 {
-  "name": "todo-mvc",
+  "name": "simpleapp",
   "version": "0.0.0",
-  "description": "Small description for todo-mvc goes here",
+  "description": "Small description for simpleapp goes here",
   "private": true,
   "directories": {
     "doc": "doc",
